@@ -1,0 +1,26 @@
+2022-01-23 17:22:05.061  INFO 14420 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 17.0.2 on DESKTOP-TPEHJ4F with PID 14420 (D:\1AProgrammingFolder\Spring Boot Complete guide course\target\classes started by hecto in D:\1AProgrammingFolder\Spring Boot Complete guide course)
+2022-01-23 17:22:05.064  INFO 14420 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2022-01-23 17:22:05.784  INFO 14420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-01-23 17:22:05.791  INFO 14420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-23 17:22:05.792  INFO 14420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-23 17:22:05.857  INFO 14420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-23 17:22:05.857  INFO 14420 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 740 ms
+2022-01-23 17:22:06.002 DEBUG 14420 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-01-23 17:22:06.046 DEBUG 14420 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2022-01-23 17:22:06.065 DEBUG 14420 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-01-23 17:22:06.070 DEBUG 14420 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-01-23 17:22:06.155  INFO 14420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-01-23 17:22:06.165  INFO 14420 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 1.456 seconds (JVM running for 2.049)
+2022-01-23 17:24:01,786 INFO  [main] com.example.demo.DemoApplication : Starting DemoApplication using Java 17.0.2 on DESKTOP-TPEHJ4F with PID 4224 (D:\1AProgrammingFolder\Spring Boot Complete guide course\target\classes started by hecto in D:\1AProgrammingFolder\Spring Boot Complete guide course)
+2022-01-23 17:24:01,789 INFO  [main] com.example.demo.DemoApplication : No active profile set, falling back to default profiles: default
+2022-01-23 17:24:02,577 INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9090 (http)
+2022-01-23 17:24:02,584 INFO  [main] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2022-01-23 17:24:02,584 INFO  [main] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-23 17:24:02,654 INFO  [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2022-01-23 17:24:02,654 INFO  [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 817 ms
+2022-01-23 17:24:02,812 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-01-23 17:24:02,860 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2022-01-23 17:24:02,882 DEBUG [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2022-01-23 17:24:02,890 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-01-23 17:24:02,993 INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 9090 (http) with context path ''
+2022-01-23 17:24:03,004 INFO  [main] com.example.demo.DemoApplication : Started DemoApplication in 1.607 seconds (JVM running for 2.257)
